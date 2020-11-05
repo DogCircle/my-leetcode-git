@@ -5,6 +5,7 @@
 #include "includes.h"
 
 struct ListFunc root[] = {
+    { 1, "twoSum", func1 },
     { 50, "myPow", func50 }
 };
 

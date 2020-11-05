@@ -1,5 +1,6 @@
 #define STR_LEN         50
 
+extern void func1(void);
 extern void func50(void);
 
 struct ListFunc {
